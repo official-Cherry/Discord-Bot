@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Study Tracker Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi I am Discord Bot"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "CHERRY",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "googleapis": "^131.0.0",
+    "node-schedule": "^2.1.1"
+  },
+  "type": "module"
+}

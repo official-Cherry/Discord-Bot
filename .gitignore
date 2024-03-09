@@ -1,0 +1,5 @@
+# Ignore node_modules directory or Workflows
+node_modules/
+.github/workflows/
+.env
+discord_bot_key.json
